@@ -35,3 +35,7 @@ print("========================")
 linked_list.delete_last()
 linked_list.print_list()
 print("========================")
+
+linked_list.delete_last()
+linked_list.print_list()
+print("=======================")
